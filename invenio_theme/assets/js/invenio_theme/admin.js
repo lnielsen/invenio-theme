@@ -16,5 +16,9 @@
  * along with Invenio; if not, write to the Free Software Foundation, Inc.,
  * 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
  */
- import jquery from 'jquery/jquery'
+ // eslint-disable-next-line no-unused-vars
+ import jquery from 'jquery/dist/jquery'
+ // eslint-disable-next-line no-unused-vars
+ import bootstrap from 'bootstrap-sass/assets/javascripts/bootstrap'
+ // eslint-disable-next-line no-unused-vars
  import select2 from 'select2/dist/js/select2'
